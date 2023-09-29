@@ -1,6 +1,6 @@
 # gatsby
 
-An exercise using Gatsby, Contentful, Typescript and styled-components to showcase animals and their breeds.
+A playground using Gatsby, Contentful, Typescript and styled-components to showcase animals and their breeds.
 
 ## Getting Started
 
