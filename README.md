@@ -1,4 +1,4 @@
-# gatsby
+# Gatsby Playground
 
 A playground using Gatsby, Contentful, Typescript and styled-components to showcase animals and their breeds.
 
